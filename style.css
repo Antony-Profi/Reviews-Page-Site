@@ -36,7 +36,7 @@
     padding: 30px 15px;
     /* max-width: 100%; */
     color: #fff;
-    height: auto;
+    height: 400px;
     display: flex;
     gap: 15px;
     justify-content: space-between;
@@ -89,7 +89,7 @@
   border-radius: 2em;
 }
 #repair_hydraulic_cylinders_reviews #slide_1 {
-    background-image: url("img/3.jpg");
+    background-image: url("https://antony-profi.github.io/Reviews-Page-Site/3.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -98,7 +98,7 @@
     background-color: #FF0000;
 }
 #repair_hydraulic_cylinders_reviews #slide_2 {
-    background-image: url("img/3.jpg");
+    background-image: url("https://antony-profi.github.io/Reviews-Page-Site/3.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -107,7 +107,7 @@
     background-color: #fcad03;
 }
 #repair_hydraulic_cylinders_reviews #slide_3 {
-    background-image: url("img/3.jpg");
+    background-image: url("https://antony-profi.github.io/Reviews-Page-Site/3.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -116,13 +116,13 @@
     background-color: #29ba2e;
 }
 #repair_hydraulic_cylinders_reviews #slide_3 {
-    background-image: url("img/3.jpg");
+    background-image: url("https://antony-profi.github.io/Reviews-Page-Site/3.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 #repair_hydraulic_cylinders_reviews #slide_4 {
-    background-image: url("img/3.jpg");
+    background-image: url("https://antony-profi.github.io/Reviews-Page-Site/3.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -131,7 +131,7 @@
     background-color: #FF0000;
 }
 #repair_hydraulic_cylinders_reviews #slide_5 {
-    background-image: url("img/3.jpg");
+    background-image: url("https://antony-profi.github.io/Reviews-Page-Site/3.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@
     background-color: #fcad03;
 }
 #repair_hydraulic_cylinders_reviews #slide_6 {
-    background-image: url("img/3.jpg");
+    background-image: url("https://antony-profi.github.io/Reviews-Page-Site/3.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
