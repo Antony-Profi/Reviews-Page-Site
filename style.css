@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#repair_hydraulic_cylinders_reviews {
+    font-family: Montserrat, sans-serif;
+}
+#repair_hydraulic_cylinders_reviews .text {
+    width: 30%;
+}
+#repair_hydraulic_cylinders_reviews .slider {
+    width: 70%;
+    display: flex;
+    position: relative;
+    padding: 0 50px;
+    width: 65%;
+}
+#repair_hydraulic_cylinders_reviews .title {
+    font-size: 37px;
+    font-weight: 600;
+    line-height: 31px;
+}
+
+#repair_hydraulic_cylinders_reviews .title > span {
+    position: relative;
+    z-index: 2;
+}
+
+#repair_hydraulic_cylinders_reviews .q1 {
+    padding: 30px 120px;
+    background: #2f2f2d;
+    /* max-width: 100%; */
+    color: #fff;
+    height: 400px;
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    position: relative;
+    z-index: 1;
+    /* overflow: hidden; */
+}
+
+#repair_hydraulic_cylinders_reviews .q1 h2 {
+    margin-bottom: 30px;
+    /* width: 0; */
+    line-height: 40px;
+}
+
+#repair_hydraulic_cylinders_reviews .q1 .sub-title {
+    font-size: 17px;
+    line-height: 24px;
+    /* width: 245px; */
+    /* width: 10%; */
+}
+
+#repair_hydraulic_cylinders_reviews .title > span::before {
+    content: "";
+    display: block;
+    background: #FFA500;
+    width: calc(100% + 6px);
+    height: 15px;
+    z-index: -1;
+    position: absolute;
+    bottom: 6px;
+    left: -3px;
+}
+
+#repair_hydraulic_cylinders_reviews .swiper {
+  width: 100%;
+  height: 100%;
+  /* height: 500px;
+  width: 600px; */
+}
+
+#repair_hydraulic_cylinders_reviews .swiper-slide {
+  position: relative;
+  font-size: 18px;
+  height: 75%;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 2em;
+}
+#repair_hydraulic_cylinders_reviews #slide_1 {
+    background-image: url("img/3.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#repair_hydraulic_cylinders_reviews #slide_1 .swiper-profile {
+    background-color: #FF0000;
+}
+#repair_hydraulic_cylinders_reviews #slide_2 {
+    background-image: url("img/3.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#repair_hydraulic_cylinders_reviews #slide_2 .swiper-profile {
+    background-color: #fcad03;
+}
+#repair_hydraulic_cylinders_reviews #slide_3 {
+    background-image: url("img/3.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#repair_hydraulic_cylinders_reviews #slide_3 .swiper-profile {
+    background-color: #29ba2e;
+}
+#repair_hydraulic_cylinders_reviews #slide_3 {
+    background-image: url("img/3.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#repair_hydraulic_cylinders_reviews #slide_4 {
+    background-image: url("img/3.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#repair_hydraulic_cylinders_reviews #slide_4 .swiper-profile {
+    background-color: #FF0000;
+}
+#repair_hydraulic_cylinders_reviews #slide_5 {
+    background-image: url("img/3.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#repair_hydraulic_cylinders_reviews #slide_5 .swiper-profile {
+    background-color: #fcad03;
+}
+#repair_hydraulic_cylinders_reviews #slide_6 {
+    background-image: url("img/3.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#repair_hydraulic_cylinders_reviews #slide_6 .swiper-profile {
+    background-color: #29ba2e;
+}
+
+#repair_hydraulic_cylinders_reviews .swiper-slide::after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    width: 0px;
+    height: 0px;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #fff;
+}
+#repair_hydraulic_cylinders_reviews .swiper-content {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+    position: absolute;
+    bottom: -70px;
+}
+
+#repair_hydraulic_cylinders_reviews .swiper-profile {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    color: #fff;
+    height: 15px;
+    text-align: center;
+    width: 15px;
+    border-radius: 50%;
+    border-color: #1E90FF;
+    border: 2px solid #fff;
+}
+
+#repair_hydraulic_cylinders_reviews .city {
+    color: #fff;
+    font-style: italic;
+}
+#repair_hydraulic_cylinders_reviews .company {
+    color: silver;
+}
+#repair_hydraulic_cylinders_reviews .swiper-info {
+    overflow: auto;
+    font-size: 12px;
+}
+#repair_hydraulic_cylinders_reviews .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
