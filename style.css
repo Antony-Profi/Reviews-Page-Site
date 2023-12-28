@@ -67,7 +67,7 @@
 #repair_hydraulic_cylinders_reviews .super_image::after {
     content: "";
     position: absolute;
-    bottom: 48px;
+    bottom: 49px;
     left: 50%;
     transform: translateX(-50%);
     border-left: 20px solid transparent;
