@@ -127,6 +127,60 @@
     overflow: auto;
     font-size: 12px;
 }
+
+@media screen and (max-width: 800px) {
+    #repair_hydraulic_cylinders_reviews .q1 {
+        padding: 30px 60px;
+    }
+
+    #repair_hydraulic_cylinders_reviews .text {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    #repair_hydraulic_cylinders_reviews .q1 .sub-title {
+        width: 60%;
+    }
+
+    #repair_hydraulic_cylinders_reviews .q1 > .image_vertical img {
+        max-width: 25%;
+    }
+
+    #repair_hydraulic_cylinders_reviews .icon-profile {
+        padding: 8px;
+    }
+
+    #repair_hydraulic_cylinders_reviews .super_image::after {
+        bottom: 44px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #repair_hydraulic_cylinders_reviews .q1 {
+        padding: 30px 30px;
+    }
+
+    #repair_hydraulic_cylinders_reviews .text {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    #repair_hydraulic_cylinders_reviews .q1 .sub-title {
+        width: 118%;
+    }
+
+    #repair_hydraulic_cylinders_reviews .q1 > .image_vertical img {
+        max-width: 46%;
+    }
+
+    #repair_hydraulic_cylinders_reviews .icon-profile {
+        padding: 7px;
+    }
+
+    #repair_hydraulic_cylinders_reviews .super_image::after {
+        bottom: 42px;
+    }
+}
 .Block__ui_padding-top_s--yjxcw {
     z-index: 100;
 }
