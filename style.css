@@ -168,13 +168,17 @@
     #repair_hydraulic_cylinders_reviews .q1 .sub-title {
         width: 118%;
     }
+    
+    #repair_hydraulic_cylinders_reviews .title {
+        font-size: 29px;
+    }
 
     #repair_hydraulic_cylinders_reviews .q1 > .image_vertical img {
         max-width: 46%;
     }
 
     #repair_hydraulic_cylinders_reviews .icon-profile {
-        padding: 7px;
+        padding: 6px;
     }
 
     #repair_hydraulic_cylinders_reviews .super_image::after {
